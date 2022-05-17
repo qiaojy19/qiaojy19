@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-<!--
-**qiaojy19/qiaojy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Qiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaojy19&count_private=true&show_icons=true)](https://github.com/qiaojy19/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaojy19&layout=compact&hide=javascript)](https://github.com/qiaojy19/github-readme-stats)
-
-[![Qiao's github stats](https://github-readme-stats.vercel.app/api?username=qiaojy19 "![Anurag's github stats")](https://github.com/qiaojy19/github-readme-stats)
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiaojy19 "![Anurag's github stats")](https://github.com/qiaojy19/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaojy19)](https://github.com/qiaojy19/github-readme-stats)
 
 Here are some ideas to get you started:
 
