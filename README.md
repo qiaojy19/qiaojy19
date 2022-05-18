@@ -9,9 +9,3 @@ Da-(Qiao Jing Yuan)-Ge
 
 |[Papers](https://github.com/qiaojy19/q-Papers)|[Blogs](https://github.com/qiaojy19/q-Blogs)|[Points](https://github.com/qiaojy19/q-Points)|[Jupyters](https://github.com/qiaojy19/q-Jupyter)|[Bugs](https://github.com/qiaojy19/q-Bugs)|
 |--|--|--|--|--|
-
-
-Reference：
-- [大乔](https://pvp.qq.com/fans/details_painting.shtml?id=416970&channelId=10519)
-- [镜](https://www.bilibili.com/read/cv6247022)
-- [元歌](http://pvp.qq.com/fans/details_painting.shtml?id=695143&channelId=10519)
