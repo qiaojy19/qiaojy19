@@ -2,7 +2,7 @@
 | ------------- | ------------- |
 
 
-|Qiao Jing Yuan|[Papers](https://github.com/qiaojy19/q-Papers)|[Blogs](https://github.com/qiaojy19/q-Blogs)|[Points](https://github.com/qiaojy19/q-Points)|[Jupyters](https://github.com/qiaojy19/q-Jupyter)|[Bugs](https://github.com/qiaojy19/q-Bugs)|
+|Qiao Jing Yuan|[Papers](https://github.com/qiaojy19/q-Papers)|[Blogs](https://github.com/qiaojy19/q-Blogs)|[Topics](https://github.com/qiaojy19/q-Topics)|[Jupyters](https://github.com/qiaojy19/q-Jupyter)|[Bugs](https://github.com/qiaojy19/q-Bugs)|
 |--|--|--|--|--|--|
 
  |<img src="https://user-images.githubusercontent.com/11640301/169082131-f307bedd-84a7-4b4f-b229-543a94953333.jpg" width = "300"  alt="Qiao" align=center />|<img src="https://user-images.githubusercontent.com/11640301/169079310-05f55379-b459-456d-a0d1-88791db07515.jpg" width = "300"  alt="Jing" align=center />|<img src="https://user-images.githubusercontent.com/11640301/169079148-f9f12e04-caa1-4a5b-850d-23f1d6a557d8.jpg" width = "300"  alt="Yuan" align=center />|
